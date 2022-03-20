@@ -9,5 +9,5 @@ class stereo():
     def show():
         plt.subplot(1,2,1)
 
-iml=Image.op('tsukubal.png')
+iml=Image.open('tsukubal.png')
         
